@@ -3,7 +3,7 @@ Comparing different Machine Learning models on a dataset
 The strategy is to apply default model first with no tuning of the hyperparameter and then tuned them with different hyperparameter values and then I'll plot ROC curve to select the best machine learning model.The models used are as follows: 1) Principal Component Analysis2)Logistic Regression 3)Gaussian Naive Bayes 4)Support Vector Machine 5)Random Forest Classifier 6)Simple neural network
 
 **Code goes as follows:
-1.IMporting necessary libraries and Data
+1.Importing necessary libraries and Data\n
 2.Encoding the Data
 3.Checking the encoded values
 4.Seperating Features and Labels
